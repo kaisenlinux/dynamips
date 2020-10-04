@@ -1,0 +1,15 @@
+Source: dynamips
+Priority: optional
+Section: net
+Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>
+Build-Depends: debhelper, libpcap-dev, libelf-dev
+Standards-Version: 4.5.0
+Homepage: https://gns3.org
+Vcs-Git: https://gitlab.com/kaisenlinux/packages/dynamips.git
+Vcs-Browser: https://gitlab.com/kaisenlinux/packages/dynamips
+
+Package: dynamips
+Section: net
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Cisco Router Emulator (for GNS3) 
