@@ -1,5 +1,12 @@
+dynamips (0.2.21-1kaisen2) kaisen-packages; urgency=medium
+
+  * Add manpages
+  * Update build dependancies
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>  Sat, 10 Oct 2020 22:25:07 +0200
+
 dynamips (0.2.21-1kaisen1) kaisen-packages; urgency=medium
 
   * First packaging for Kaisen Linux
 
- -- Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>  Sat, 04 Oct 2020 06:15:32 +0200
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>  Sun, 04 Oct 2020 06:15:32 +0200

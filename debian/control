@@ -2,7 +2,7 @@ Source: dynamips
 Priority: optional
 Section: net
 Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>
-Build-Depends: debhelper, libpcap-dev, libelf-dev
+Build-Depends: debhelper, libpcap-dev, libelf-dev, dh-cmake, dh-make
 Standards-Version: 4.5.0
 Homepage: https://gns3.org
 Vcs-Git: https://gitlab.com/kaisenlinux/packages/dynamips.git
