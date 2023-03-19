@@ -1,3 +1,9 @@
+dynamips (0.2.23-1kaisen) kaisen-packages; urgency=medium
+
+  * Import the 0.2.23 version
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Sun, 19 Mar 2023 17:09:22 +0100
+
 dynamips (0.2.22-1kaisen) kaisen-packages; urgency=medium
 
   * Import the 0.2.22 version
